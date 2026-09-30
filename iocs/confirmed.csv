@@ -1,0 +1,10 @@
+indicator,type,first_public_context,status,confidence,source,notes
+165.22.13.227,ipv4,Certego June 2026 and CERT-AGID September 2026,confirmed campaign indicator,high,https://www.certego.net/it/blog/pec-malevola-e-crypto-wallet-trojan-di-accesso-remoto/ | https://cert-agid.gov.it/wp-content/uploads/2026/09/mintsloader-pec-24-09-2026.json,"Confirmed in both sources; overlap does not prove common control"
+waltagemusic.com,domain,Certego June 2026,confirmed June indicator,high,https://www.certego.net/it/blog/pec-malevola-e-crypto-wallet-trojan-di-accesso-remoto/,Initial PowerShell retrieval endpoint
+uk07m7j6xy80p1i.top,domain,Certego June 2026,confirmed June indicator,high,https://www.certego.net/it/blog/pec-malevola-e-crypto-wallet-trojan-di-accesso-remoto/,Associated with later payload staging
+141.136.36.44,ipv4,Certego June 2026,confirmed June indicator,high,https://www.certego.net/it/blog/pec-malevola-e-crypto-wallet-trojan-di-accesso-remoto/,Address associated with waltagemusic.com during incident
+gl2yq5fgshd3f1o.top,domain,CERT-AGID September 2026,confirmed September indicator,high,https://cert-agid.gov.it/wp-content/uploads/2026/09/mintsloader-pec-24-09-2026.json,Published in event 26383
+hexn861e33iwlq5.top,domain,CERT-AGID September 2026,confirmed September indicator,high,https://cert-agid.gov.it/wp-content/uploads/2026/09/mintsloader-pec-24-09-2026.json,Published in event 26383
+wj0qp2nmo6surev.top,domain,CERT-AGID September 2026,confirmed September indicator,high,https://cert-agid.gov.it/wp-content/uploads/2026/09/mintsloader-pec-24-09-2026.json,Published in event 26383
+whiteinsidedoor.com,domain,CERT-AGID September 2026,confirmed September indicator,high,https://cert-agid.gov.it/wp-content/uploads/2026/09/mintsloader-pec-24-09-2026.json,Published in event 26383
+31.97.33.171,ipv4,CERT-AGID September 2026,confirmed September indicator,high,https://cert-agid.gov.it/wp-content/uploads/2026/09/mintsloader-pec-24-09-2026.json,Published in event 26383
