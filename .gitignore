@@ -1,0 +1,11 @@
+# Local and editor files
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+~$*
+
+# Render and analysis intermediates
+page-*.png
+qa/
+work/
